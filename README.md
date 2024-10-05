@@ -131,10 +131,14 @@ E assim você terá o resultado da conversão
 
 <br>
 
-    Realizar a instalação do JDK 22.0
+   1. Realizar a instalação do JDK 22.0
 
     do site oficial
-
+  
+  
+ necessário o uso biblioteca GSON
+        
+          existe um arquivo GSON.jar na pasta do projeto basta extrai-lo e salvar dentro da pasta src/com 
 
 
 <br>
