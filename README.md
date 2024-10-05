@@ -139,7 +139,7 @@ E assim você terá o resultado da conversão
   
  necessário o uso da biblioteca GSON
         
-    existe um arquivo GSON.jar na pasta do projeto basta extrai-lo e salvar dentro da pasta src/com 
+    existe um arquivo gson-2.11.0.jar na pasta do projeto, basta extrai-lo e salvar dentro da pasta src/com 
 
 necessário o uso de uma api-key, para conseguir a sua basta ir nesse link
     
