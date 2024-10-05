@@ -96,34 +96,21 @@
 
 <br>
 
-    E assim você terá o resultado da conversão
+E assim você terá o resultado da conversão
 
 ![quinta_tela](/prints/Captura%20de%20tela%202024-10-04%20221011.png)
 
 </h2>
 
-<h2 align = center>
-
-    
-
-
-
 <br>
-
-</h2>
-
 
 
 <div align = center>
 
     <h1>
-
     Tecnologia usada
 
-
-
 <br>
-
 
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -154,7 +141,7 @@
 
 
 
-[DOWNLOAD](download.oracle.com/java/22/latest/jdk-22_windows-x64_bin.exe)
+[DOWNLOAD](https://download.oracle.com/java/22/latest/jdk-22_windows-x64_bin.exe)
 
 
 
@@ -193,14 +180,7 @@ git clone git@github.com:Renato32s/conversor_de_moedas.git
 pasta_destino/conversor_de_moedas/src/
 
 ````
-
-
-
 </h2>
-
-
-
-
 
 <h2 align = center>
 
