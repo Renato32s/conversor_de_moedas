@@ -1,12 +1,19 @@
 <h1 align = center>
 
      🪙 Conversor de Moedas
-
-
-
 <br>
 
 </h1>
+
+<h4 align="center">
+  Challenge - Alura + Oracle
+    
+<br>
+    G7 - ONE
+</h4>
+<p align="center">
+<img alt="badge" src="Badge-Conversor.png" align="center">
+</p>
 
 <h2 align = center>
 
