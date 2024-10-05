@@ -137,10 +137,14 @@ E assim você terá o resultado da conversão
     [DOWNLOAD](https://download.oracle.com/java/22/latest/jdk-22_windows-x64_bin.exe)
   
   
- necessário o uso biblioteca GSON
+ necessário o uso da biblioteca GSON
         
-          existe um arquivo GSON.jar na pasta do projeto basta extrai-lo e salvar dentro da pasta src/com 
+    existe um arquivo GSON.jar na pasta do projeto basta extrai-lo e salvar dentro da pasta src/com 
 
+necessário o uso de uma api-key, para conseguir a sua basta ir nesse link
+    
+    https://app.exchangerate-api.com/sign-in
+![tela de login](https://github.com/Renato32s/conversor_de_moedas/blob/main/tela%20de%20login.png)
 
 <br>
 
@@ -208,7 +212,7 @@ pasta_destino/conversor_de_moedas/src/
 
 ````bash    
 
-    javac Main.java
+    javac Principal.java
 
 ````
 
@@ -216,23 +220,20 @@ pasta_destino/conversor_de_moedas/src/
 
     E para executar a aplicação use esse outro comando
 
-
-
 <br>
 
 </h2>
 
 
-
 ````bash
 
-    java Main
+    java Principal
 
 ````
 
 <h2 align = center>
 
- E pronto você já estará rodando a aplicação
+ E pronto, você já estará rodando a aplicação
 
  
 
