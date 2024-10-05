@@ -248,6 +248,8 @@ pasta_destino/conversor_de_moedas/src/
 
 
 
-## Desenvolvido por : Renato Santos
-
+## Desenvolvido por : Renato Santos    
+<h2 align = center>
+  <a align = center href="https://github.com/Renato32s/conversor_de_moedas/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg"></a>
+</h2>              
 
